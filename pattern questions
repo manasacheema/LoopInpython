@@ -1,0 +1,8 @@
+col=1 num=5
+while col<=num:
+ row=1
+while row<=col:
+  print(row,end"")
+row+=1
+   print()
+col+=1
